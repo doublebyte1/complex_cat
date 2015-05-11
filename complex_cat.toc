@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Extracting Patterns}{12}{0}{2}
+\beamer@sectionintoc {3}{Putting Geographic Information into Context}{29}{0}{3}
+\beamer@sectionintoc {4}{A Case Study}{35}{0}{4}
+\beamer@sectionintoc {5}{Final Remarks}{37}{0}{5}
